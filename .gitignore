@@ -1,0 +1,7 @@
+**/.terraform/
+.vs/
+bin/
+obj/
+**/secret.tfvars
+**/terraform.tfstate
+**/terraform.tfstate.backup
